@@ -1,0 +1,41 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 38px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+h1.main-head {
+    color: darkred;
+}
+
+#home-body {
+    background-color: lightgray;
+}
+
+.pageimg {
+    width: 450px;
+    height: auto;
+
+}
+
+.instr {
+    background-color: lightgray;
+}
+
+.nav {
+    color: black;
+    font-size: 28px;
+}
+
+.instr li {
+    font-family: "Brush Script MT", cursive;
+    font-size: 22px;
+}

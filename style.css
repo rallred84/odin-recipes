@@ -39,3 +39,15 @@ h1.main-head {
     font-family: "Brush Script MT", cursive;
     font-size: 22px;
 }
+
+.instr strong {
+    font-family: "Brush Script MT", cursive;
+    font-size: 22px;
+    color: red;
+}
+
+.instr em {
+    font-family: "Brush Script MT", cursive;
+    font-size: 22px;
+    text-decoration: underline;
+}
